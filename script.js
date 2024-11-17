@@ -1,4 +1,4 @@
 document.getElementById("button").addEventListener('click',()=>{ 
-    i alert("You have successfully registered");
+    alert("You have successfully registered");
     })
     
